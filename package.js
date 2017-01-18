@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'fullcalendar:fullcalendar',
-  version: '2.8.0',
+  name: 'fullcalendar:fullcalendar-chamith',
+  version: '2.3.0',
   summary: 'Full-sized drag & drop event calendar',
-  git: 'https://github.com/rgnevashev/fullcalendar.git',
+  git: 'https://github.com/chamithkanchana/fullcalendar.git',
   documentation: 'README.md'
 });
 
